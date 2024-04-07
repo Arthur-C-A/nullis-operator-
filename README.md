@@ -1,0 +1,1 @@
+Funciona como un ls al ejecutar este archivo se mostraran los archivos en el directorio si añadimos una entrada de otro directorio se mostrara los archivos en ese directorio y no el de donde se ejecuta el programa
